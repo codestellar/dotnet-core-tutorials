@@ -21,7 +21,9 @@ namespace firstApp
 
             var productFromJson = JsonConvert.DeserializeObject<Product>(jsonString);
 
-            Console.WriteLine(string.Format("The product Name is {0}", productFromJson.Name));
+            Console.WriteLine($"The product Name is {productFromJson.Name}");
+
+            
 
             Console.Read();
 
