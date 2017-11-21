@@ -1,0 +1,9 @@
+E:\2017\dotnetcore-tutorials\firstApp\bin\Debug\netcoreapp1.1\firstApp.deps.json
+E:\2017\dotnetcore-tutorials\firstApp\bin\Debug\netcoreapp1.1\firstApp.runtimeconfig.json
+E:\2017\dotnetcore-tutorials\firstApp\bin\Debug\netcoreapp1.1\firstApp.runtimeconfig.dev.json
+E:\2017\dotnetcore-tutorials\firstApp\bin\Debug\netcoreapp1.1\firstApp.dll
+E:\2017\dotnetcore-tutorials\firstApp\bin\Debug\netcoreapp1.1\firstApp.pdb
+E:\2017\dotnetcore-tutorials\firstApp\obj\Debug\netcoreapp1.1\firstApp.csproj.CoreCompileInputs.cache
+E:\2017\dotnetcore-tutorials\firstApp\obj\Debug\netcoreapp1.1\firstApp.AssemblyInfo.cs
+E:\2017\dotnetcore-tutorials\firstApp\obj\Debug\netcoreapp1.1\firstApp.dll
+E:\2017\dotnetcore-tutorials\firstApp\obj\Debug\netcoreapp1.1\firstApp.pdb
